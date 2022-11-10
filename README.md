@@ -1,2 +1,2 @@
-# niallmcm..github.io
+# niallmcm.github.io
 Website
